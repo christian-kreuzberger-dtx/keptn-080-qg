@@ -1,6 +1,0 @@
-apiVersion: v2
-appVersion: 0.8.2-dev.202101270652
-description: A Helm chart for Kubernetes
-name: mongodb
-type: application
-version: 0.1.0
